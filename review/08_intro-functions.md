@@ -44,8 +44,9 @@ inches and return the total height, in centimeters
 
 ### Basic Requirements
 
-1. In the console on the blank `index.html` page, try the following and verify
-   that the results match your expectations:
+  function square (n){
+    return n * n;
+  }
 
    ```js
    square(10) + 2;
@@ -58,9 +59,8 @@ inches and return the total height, in centimeters
 2. Write a sentence in plain English describing how `square(square(15))` is
    evaluated.
 
-3. Rename the parameter to `square` in your `main.js` file to `monkey`, and
-   rename the uses of that parameter in the body to `monkey` as well. Will the
-   function `square` still work? Why or why not?
+3. Rename the parameter to `square` to `monkey`, and rename the uses of that parameter in
+   the body to `monkey` as well. Will the function `square` still work? Why or why not?
 
 4. What is wrong with the following definitions of `square`? Write a sentence or
    two describing the issue(s); then, try copying the erroneous examples into a
@@ -82,8 +82,7 @@ inches and return the total height, in centimeters
    }
    ```
 
-5. Fix the invalid syntax in the following functions (you can copy and paste these
-   invalid definitions into `main.js` and then edit them there):
+5. Fix the invalid syntax in the following functions.
 
    ```js
    func square1(x {
@@ -163,22 +162,19 @@ inches and return the total height, in centimeters
     To test your answers, you'll need to:
 
     1. Save the JavaScript file that you enter your code into,
-    2. Reload the corresponding `index.html` file (the one in the same directory as
-       the `main.js` file that your code is in),
-    3. Call the function with arguments in the console to see the result, e.g.
+    2. Call the function with arguments in the console to see the result, e.g.
       `perimeterRect(2, 6)`.
     4. Eventually, you may want to verify that the output is correct. Google is a
-       great tool for this:
+       great tool for this.
 
-    ![google geometry answer](img/google-geometry-answer.gif)
-
-### More Practice
-
-Translate the rest of the geometric formulas found <a href="http://www.gbcnv.edu/documents/ASC/docs/00000005.pdf" target="_blank">here</a> into JavaScript functions.
 
 ### Advanced
 
-1. Compound interest can be calculated with the formula:
+1.  Translate the rest of the geometric formulas found <a href="http://www.gbcnv.edu/
+    documents/ASC/docs/00000005.pdf" target="_blank">here</a> into JavaScript functions.
+
+
+2. Compound interest can be calculated with the formula:
 
     ![future value](img/future-value.png)
 
@@ -196,11 +192,11 @@ Translate the rest of the geometric formulas found <a href="http://www.gbcnv.edu
   compounded quarterly (*n* = 4) after 6 years (*t* = 6) (you can use `Math.pow`
   to do exponentiation).
 
-2. Write a `power` function that accepts the parameters `base` and `exponent`
+3. Write a `power` function that accepts the parameters `base` and `exponent`
    and returns the result. Replace `square` and `cube` with the `power` function
    you just wrote. Do not use `Math.pow`.
 
-3. Write your own square-root function called `sqrt` that accepts a `number`
+4. Write your own square-root function called `sqrt` that accepts a `number`
    parameter and returns an approximate square root. Square-root approximations
    make use of averages. Be sure to use the `average` function you previously
    wrote. The first version of your square root function should perform no more
