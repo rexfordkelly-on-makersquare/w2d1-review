@@ -3,6 +3,7 @@
 ## Lesson
 
 <iframe src="https://docs.google.com/presentation/d/1U5PoyOCRJOeLWagTxRW2F-FoujmdL3pQq-DVo0KqOnI/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+[Slides](https://docs.google.com/presentation/d/1U5PoyOCRJOeLWagTxRW2F-FoujmdL3pQq-DVo0KqOnI/embed?start=false&loop=false&delayms=3000)
 
 ## Exercises
 

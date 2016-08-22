@@ -7,7 +7,7 @@ lesson (explained in the previous link).**
 ## Lesson
 
 <iframe src="https://docs.google.com/presentation/d/125-QpXwYUBwn_0j7R6Dq99w21fcTyeb3-Q2cbqkyREM/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
+[Slides] (https://docs.google.com/presentation/d/125-QpXwYUBwn_0j7R6Dq99w21fcTyeb3-Q2cbqkyREM/embed?start=false&loop=false&delayms=3000)
 ## Exercises
 
 An Example:

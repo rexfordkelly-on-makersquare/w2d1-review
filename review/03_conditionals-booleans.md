@@ -3,7 +3,7 @@
 ## Lesson
 
 <iframe src="https://docs.google.com/presentation/d/1rYPio9W3IphRi12KXjsAa8sTZmbSJMrFeKTByCRWFqw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
+[Slides](https://docs.google.com/presentation/d/1rYPio9W3IphRi12KXjsAa8sTZmbSJMrFeKTByCRWFqw/embed?start=false&loop=false&delayms=3000)
 ## Exercises
 
 ### Basic Requirements
