@@ -30,10 +30,6 @@ To open the console, use the keybinding for your system from within Chrome:
 It is recommended that you learn to open the console from the keyboard, because
 we will be using it so frequently.
 
-When you have the console open, it should look something like this:
-
-![console](img/console.png)
-
 ## Tips & Tricks
 
 ### History

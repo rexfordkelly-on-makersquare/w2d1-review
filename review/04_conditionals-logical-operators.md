@@ -5,6 +5,7 @@
 ### Logical Operators
 
 <iframe src="https://docs.google.com/presentation/d/1ObSwM793UeWRqXcsiswWP6NEvMfJoj4sju0ttALqpts/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+[Slides](https://docs.google.com/presentation/d/1ObSwM793UeWRqXcsiswWP6NEvMfJoj4sju0ttALqpts/embed?start=false&loop=false&delayms=3000)
 
 ### More Conditionals
 

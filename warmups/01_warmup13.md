@@ -2,9 +2,8 @@
 
 ## Instructions
 
-1. In your starter project, open the files in the `w1d3` directory. 
-2. Find a partner (preferably one that you have not yet worked with), and work
-   through the following exercises as a pair.
+  Find a partner (preferably one that you have not yet worked with), and work
+  through the following exercises as a pair.
 
 ## Exercises
 
